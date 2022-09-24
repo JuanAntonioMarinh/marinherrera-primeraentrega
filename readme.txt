@@ -1,1 +1,0 @@
-Hola Santiago, estoy trabajando sobre mi proyecto de desarrollo web. Poniendo la pag interactiva y demás. Si ves este mensaje es para cumplir con los plazos de la entrega pero el repo lo actualizo en la tarde que todo me funcione. 
